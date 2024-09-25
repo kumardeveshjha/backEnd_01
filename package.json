@@ -1,0 +1,15 @@
+{
+  "name": "backend01",
+  "version": "1.0.0",
+  "description": "Revising the setup for the backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev "
+  },
+  "keywords": [
+    "dev",
+    "backend"
+  ],
+  "author": "Devesh Kumar",
+  "license": "ISC"
+}
